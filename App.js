@@ -1,9 +1,10 @@
 /*
-Node.js Example code for CS160 Summer 2022
+Node + Express Example code for CS160 Summer 2022
 Prepared by Shm Garanganao Almeda 
 
 Code referenced from: 
 https://www.digitalocean.com/community/tutorials/how-to-create-a-web-server-in-node-js-with-the-http-module"
+https://expressjs.com/en/starter/hello-world.html
 https://codeforgeek.com/render-html-file-expressjs/
 https://stackoverflow.com/questions/32257736/app-use-express-serve-multiple-html
 
